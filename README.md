@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Mahamatalijr
-- 👀 I’m interested in Web Develpment
-- 🌱 I’m currently learning Softwre Engineering
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Computer Science
+- 🌱 I’m currently learning Web Development
+- 💞️ I’m looking to collaborate on cybersecurity
+- 📫 How to reach me linkedin.com/in/mahamat-ali-brahim-khalil-12504b227
 
 <!---
 Mahamatalijr/Mahamatalijr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
