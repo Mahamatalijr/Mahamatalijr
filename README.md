@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mahamatalijr
-- 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Web Development
+- 👀 I’m interested in cybersecurity
+- 🌱 I’m currently doing M.Sc cybersecurity
 - 💞️ I’m looking to collaborate on cybersecurity
 - 📫 How to reach me https://www.lindkedin.com/in/mahamat-ali-brahim-khalil-12504b227
